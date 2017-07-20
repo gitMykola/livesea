@@ -122,10 +122,10 @@
         </div>
     </div>
 </div>
-<div>
+<!--<div>
     <h4>Tasks List</h4>
     <ul id="tasksList"></ul>
-</div>
+</div>-->
 </body>
 </html>
 <script>
